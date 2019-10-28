@@ -1,0 +1,8 @@
+//CONSTANTES DE TESTING-REDUX
+export const TESTING = 'TESTING'
+
+//CONSTANTES DE FORM
+export const SALUDO = 'SALUDO';
+
+//CONSTANTES DE TEST
+export const TEST = 'TEST';
